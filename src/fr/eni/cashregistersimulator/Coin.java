@@ -1,4 +1,4 @@
-package fr.eni.cashback;
+package fr.eni.cashregistersimulator;
 
 import java.math.BigDecimal;
 
